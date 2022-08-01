@@ -3,9 +3,12 @@
 #                            D E S C R I P T I O N                             #
 #******************************************************************************#
 # This script is used to list all Integration Servers and Applications         #
-# deployed on all running Integration Nodes. This will create a file named     #
-# apps_list.txt.YYYY-MM-DD-HHMMss that will contain the results.               #
+# deployed on all running Integration Nodes.                                   #
+#                                                                              #
 # This script takes no parameter input.                                        #
+#                                                                              #
+# This will create a file named apps_list.txt.YYYY-MM-DD-HHMMss                #
+# that will contain the results.                                               #
 #                                                                              #
 #******************************************************************************#
 #                          C H A N G E  C O N T R O L                          #
